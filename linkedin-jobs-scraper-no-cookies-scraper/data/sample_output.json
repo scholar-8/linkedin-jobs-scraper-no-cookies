@@ -1,0 +1,13 @@
+[
+    {
+        "company": "Sample Company",
+        "company_url": "https://www.linkedin.com/company/sample-company",
+        "job_title": "Software Engineer",
+        "job_url": "https://www.linkedin.com/jobs/view/software-engineer-job-id",
+        "location": "San Francisco, CA",
+        "remote": "Remote",
+        "posted_at": "2025-11-01",
+        "job_type": "Full-time",
+        "is_easy_apply": true
+    }
+]
